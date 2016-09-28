@@ -334,15 +334,15 @@ CastToIterator
 
     interface Iterator{
         // 检查是否还可以继续迭代
-        hasNext()                                       bool
+        bool hasNext()                                       
 
         // 迭代并返回值
-        next()                                          object
+        object next()                                          
 
         // 设置上下文件的变量
         // keyName 键的变量名
         // valueName 值的变量名
-        SetVariable(keyName string,valueName string)    void
+        void setVariable(keyName string,valueName string)    
     }
 
 
