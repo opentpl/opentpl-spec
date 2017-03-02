@@ -38,7 +38,7 @@ otpl.html::
 ====
 
 - OTPL `中文语法规范`_
-- OTIL `中文规范`_
+- OTIL `中文IL规范`_
 
 
 实现引擎
@@ -62,4 +62,5 @@ otpl.html::
 .. image:: https://i.creativecommons.org/l/by-nd/4.0/88x31.png
 
 .. _知识共享署名-禁止演绎 4.0: http://creativecommons.org/licenses/by-nd/4.0/
-.. _中文语法规范: syntax-cn.html
+.. _中文语法规范: https://github.com/opentpl/otpl-spec/blob/master/syntax-cn.rst
+.. 中文IL规范: https://github.com/opentpl/otpl-spec/blob/master/otil-cn.rst
