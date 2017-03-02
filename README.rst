@@ -63,4 +63,4 @@ otpl.html::
 
 .. _知识共享署名-禁止演绎 4.0: http://creativecommons.org/licenses/by-nd/4.0/
 .. _中文语法规范: https://github.com/opentpl/otpl-spec/blob/master/syntax-cn.rst
-.. 中文IL规范: https://github.com/opentpl/otpl-spec/blob/master/otil-cn.rst
+.. _中文IL规范: https://github.com/opentpl/otpl-spec/blob/master/otil-cn.rst
